@@ -1,0 +1,22 @@
+.projects_body {
+  display: flex;
+  flex-wrap: wrap;
+  position: relative;
+  margin: 0;
+  justify-content: center;
+  flex-direction: column;
+  height: 100vh;
+}
+
+.project_info {
+  justify-content: center;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.project_data {
+  justify-content: center;
+  width: 50%;
+  margin: 3vh;
+  text-align: left;
+}

@@ -1,0 +1,19 @@
+.skills_body {
+  display: flex;
+  flex-wrap: wrap;
+  position: relative;
+  margin: 0;
+  justify-content: center;
+}
+
+.skills_square {
+  display: flex;
+  align-items: center;
+  margin: 2vw;
+  height: 15vh;
+  width: 15vh;
+  background-color: green;
+  color: #fff;
+  justify-content: center;
+  font-weight: bold;
+}
